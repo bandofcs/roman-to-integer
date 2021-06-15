@@ -2,7 +2,7 @@
 
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 ```py
-**Symbol**       **Value**
+<code>**Symbol**       **Value**</code>
 I             1
 V             5
 X             10
